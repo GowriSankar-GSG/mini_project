@@ -1,0 +1,22 @@
+VS_VERSION_INFO VERSIONINFO
+    FILEVERSION    1,0,0,0
+    PRODUCTVERSION 1,0,0,0
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "01100111 01110011 01100111"
+        {
+            VALUE "CompanyName",        "GSG \0"
+            VALUE "FileDescription",    "Quote_text\0"
+            VALUE "FileVersion",        "1.0.0.0\0"
+            VALUE "LegalCopyright",     "© 2022 GSG_Community. All Rights Reserved\0"
+            VALUE "OriginalFilename",   "Quote_text.exe\0"
+            VALUE "ProductName",        "Quote_text\0"
+            VALUE "ProductVersion",     "1.0.0.0\0"
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation"
+    }
+}
